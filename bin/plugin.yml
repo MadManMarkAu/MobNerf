@@ -1,0 +1,7 @@
+name: MobNerf
+version: 0.1
+main: net.madmanmarkau.MobNerf.MobNerf
+author: MadManMarkAu
+description: >
+             Disable mobs on a per-world or global basis.
+commands:
